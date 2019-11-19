@@ -1,1 +1,1 @@
-# Ejemplos y ejercicios de la formacion en JAVA/EE 2019/2020 de Ipartek
+# Ejemplos y ejercicios HTML/CSS del curso 2019/2020 en Ipartek
