@@ -1,1 +1,1 @@
-# Ejercicios y ejemplos del curso de ipartek 2019/2020
+# Ejemplos y ejercicios de la formacion en JAVA/EE 2019/2020 de Ipartek
